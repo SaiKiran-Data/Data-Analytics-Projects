@@ -1,5 +1,6 @@
 # Data-Analytics-Projects
 Data Analytics Projects
+
 🚀 A collection of data analytics projects showcasing data cleaning, transformation, exploration, and visualization using SQL, Python, Excel, and Power BI.
 
 📌 About This Repository
